@@ -1,9 +1,3 @@
-# 👾 Emoji Scavenger Hunt 👾
-
-Emoji Scavenger Hunt is an experimental web based game that makes use of TensorFlow.js to identify objects seen by your webcam or mobile camera in the browser. We show you emojis 🍌 ⏰ ☕️ 📱 and you have to find those objects in the real world before your timer runs out 🏆 👍.
-
-Learn more about the experiment and try it for yourself at [g.co/emojiscavengerhunt](http://g.co/emojiscavengerhunt)
-
 
 ## Development
 
